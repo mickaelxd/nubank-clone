@@ -5,7 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/commits/master)
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
 
-# ![Nubank](https://logodownload.org/wp-content/uploads/2019/08/nubank-logo.png =150x60 )    Clone
+# Nubank Clone
 
 ## 1 - Introdução
 
