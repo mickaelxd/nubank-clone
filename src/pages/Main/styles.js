@@ -1,3 +1,4 @@
+import {Animated} from 'react-native';
 import styled from 'styled-components/native';
 import {getStatusBarHeight} from 'react-native-iphone-x-helper';
 
@@ -13,7 +14,7 @@ export const Content = styled.View`
   max-height: 400px;
   z-index: 5;
 `;
-export const Card = styled.View`
+export const Card = styled(Animated.View)`
   flex: 1;
   background: #fff;
   border-radius: 4px;
@@ -22,7 +23,7 @@ export const Card = styled.View`
   position: absolute;
   left: 0;
   right: 0;
-  top: 380px;
+  top: 0;
 `;
 export const CardHeader = styled.View`
   flex-direction: row;
