@@ -25,6 +25,4 @@ Ou se estiver em uma plataforma Windows/Linux:
  - Você deve ter o React-Native CLI instalado em seu computador!
  - Você deve possuir a versão 9 ou acima do NodeJS
 
-Qualquer dúvida entre em contato pelo e-mail: mickael.n.xd@gmail.com
-
 **Abraço!**
